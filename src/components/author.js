@@ -12,11 +12,11 @@ const Author = () => {
                     <div className="grid-child" id="author-contents">
 
                         <p>
-                            This is needed to establish a unique and strong foundation about you as the author- Born is central Texas, now lives in East Texas. Started playing Fantasy Roll Play Games in 1984, MERP (Middle Earth Roll Play), some GURP’s and a lot of Role Master....
+                        A book reader turned a book writer. His stories are a glimpse of his memoirs and his encounters with the pristine nature where he grows up. Looking back on his writing career, he had to say that it is a gift that came from his earliest attempts at capturing an inspiring event that he would feel was in need of being recorded.
                         </p>
 
                         <h1 className="author-name-tag">
-                            <span>Bob Gayhart</span>
+                            <span>Brady Herren</span>
                         </h1>
 
                         <span className="author-tagline">

@@ -35,7 +35,7 @@ const Contact = (props) => {
         <>
 
             <Layout>
-            <Helmet title="Contact | Bob Gayhart"/>
+            <Helmet title="Contact | Brady Herren"/>
                 <Nav pathExt={props.path} />
                 <Banner
                     spanFirst={``}
@@ -73,7 +73,7 @@ const Contact = (props) => {
                                     <input 
                                     type="hidden" 
                                     name= "author"
-                                    value="Bob Gayhart"/>
+                                    value="Brady Herren"/>
                                     
                                     <Inputs
                                         name="email"

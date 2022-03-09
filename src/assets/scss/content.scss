@@ -7,8 +7,8 @@
 
     img {
         width: 680px;
-        position: relative;
-        z-index: 2;
+        // position: relative;
+        // z-index: 2;
         padding: 30px;
     }
 
@@ -103,8 +103,7 @@
     text-align: center;
     position: relative;
     z-index: 2;
-    background: linear-gradient(180deg, #619a36 0, #bfbdbd);
-    ;
+    background: linear-gradient(270deg, #f4e8d6 0, #000000);
 
     h1 {
 
@@ -135,7 +134,7 @@
 
 .upper-main-author {
 
-    background: linear-gradient(180deg, #bfbdbd 0, #619a36);
+    background: linear-gradient(270deg, #000000 0, #f4e8d6);
     padding: 5% 0;
     text-align: center;
     position: relative;
@@ -174,15 +173,18 @@
 
     text-align: center;
     padding: 4% 0;
-    background: linear-gradient(230deg, #315913 0, #ffffff);
+    background: linear-gradient(90deg, #000000 0, #f4e8d6);
 
 
     h1 {
         font-size: 3.5em;
         text-transform: uppercase;
         font-weight: 900;
-        color: #000000 !important;
+        color: #ffffff !important;
         
+    }
+    p{
+        color: #ffffff;
     }
 
 

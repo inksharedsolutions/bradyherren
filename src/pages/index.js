@@ -7,17 +7,17 @@ import Banner from "../components/banner"
 import MidBook from "../components/front-book"
 import Author from "../components/author"
 import FeaturedLogos from "../components/mid-main"
-import ParallaxBottom from "../components/parallax-bottom"
+// import ParallaxBottom from "../components/parallax-bottom"
 // import Testimonial from "../components/testimonial"
 
 const IndexPage = (props) => (
     <Layout>
-        <Helmet title="Home | Bob Gayhart"/>
+        <Helmet title="Home | Brady Herren"/>
         <Nav pathExt={props.path} />
         <Banner />        
         <MidBook />
         <Author />
-        <ParallaxBottom/>  
+        {/* <ParallaxBottom/>   */}
         {/* <Testimonial/>        */}
         <FeaturedLogos />
     </Layout>

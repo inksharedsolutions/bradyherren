@@ -14,7 +14,7 @@ const ATB = (props) => {
     return (
         <>
             <Layout>
-                <Helmet title="About the Author | Bob Gayhart" />
+                <Helmet title="About the Author | Brady Herren" />
                 <Nav pathExt={props.path} />
 
                 <Banner
@@ -29,35 +29,27 @@ const ATB = (props) => {
                                     src={DummyImg}
                                     alt="_main_author" />
                             </div>
-
-                            {/* <div className="heading-quote">
-                                <h4>
-                                    - “What other’s think of me is none of my business.” And “When struggling with a decision, ask yourself this, ‘what is really going to mean a hundred years from now?"
-                                    <br />
-
-                                </h4>
-                                <p>
-                                    <spa className="author-name"></spa
-                                         <span className="author-span-ft">Author | Writer </span> 
-                                        <span className="ata-name">James Bosley</span>
-                                    </span>
-                                </p>
-                            </div> */}
                         </div>
 
 
                         <article className="article-section column" id="author">
 
                             <p>
-                                This is needed to establish a unique and strong foundation about you as the author- Born is central Texas, now lives in East Texas. Started playing Fantasy Roll Play Games in 1984, MERP (Middle Earth Roll Play), some GURP’s and a lot of Role Master. Was a game master for a long time, then the wife at the time wanted to be the Game Master and one of our gaming buddies wanted to be the GM. I was out of work for a little while and bored, a friend said write about the game. That started many years ago. Now I finally have the first book professionally edited and published.
+                            A book reader turned a book writer. His stories are a glimpse of his memoirs and his encounters with the pristine nature where he grows up. Looking back on his writing career, he had to say that it is a gift that came from his earliest attempts at capturing an inspiring event that he would feel was in need of being recorded. As early as high school days, he already started collecting poems from a certain event that he encountered. His mother inspired him a lot to pursue his passion on writing by avidly reading book of literature to him and to other children.
                             </p>
 
+                            <p>
+                            Along with the bookmobile that stopped in front of their home during summer break between his first and fourth grade years thus thrusting him into a lifetime of learning thru his avid reading. One other event shaping his thirst for learning was when he encountered the Greek philosopher’s teachings. Plato, a disciple of Socrates, and a teacher of Aristotle. Thus, having already in his youth developed a keen sense towards capturing inspiring events in his poems and stories. To his delightful encounter with their teachings, he intersected with it as their teachings arrived from the corridors of time at his receptive age. “If it wasn’t RECORDED it didn’t HAPPENED, UNTIL IT IS RECORDED, ONLY THEN WILL OUR CONTRIBUTIONS continue traveling on in the CORRIDORS of TIMELESSNESS?!?!” 
+                            </p>
 
+                            <p>
+                            He is currently writing a sci-fi novel book which will be out soon. It will be a series book which will be full of adventures, learnings, entertainment and knowledge. He will continuously keep on writing as he wanted to nurture the gift that God has given to him to share more beautiful stories to people. Your comments and reviews in this webpage may contribute KNOWLEDGE to all of us in PURSUIT of a REMEDY for this UNQUENCHABLE THIRST for KNOWLEDGE!
+                            </p>
 
                             <p>
                                 <span className="author-name">
                                     <span className="author-span-ft">Author | Writer </span>
-                                    <span className="ata-name">Bob Gayhart</span>
+                                    <span className="ata-name">Brady Herren</span>
                                 </span>
                             </p>
 

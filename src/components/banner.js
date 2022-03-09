@@ -10,10 +10,11 @@ const Banner = () => {
                 <div className="container-gt">
                     <div className="one-grid-columns">
                         <div className="grid-child-elem">
+                            
                             <div className="banner-text" id='bannercontent'>
 
                                 <h1>
-                                    Calarel
+                                    Brady Herren
                                 </h1>
 
                             </div>
