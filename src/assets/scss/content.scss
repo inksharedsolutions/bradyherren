@@ -103,7 +103,7 @@
     text-align: center;
     position: relative;
     z-index: 2;
-    background: linear-gradient(270deg, #f4e8d6 0, #000000);
+    background:#e2b479;
 
     h1 {
 
@@ -131,10 +131,10 @@
         text-align: justify;
     }
 } 
-
+// this is a change - Harry
 .upper-main-author {
-
-    background: linear-gradient(270deg, #000000 0, #f4e8d6);
+    background: url("../../../static/banner/AuthorBackground.png") repeat;
+    // background: linear-gradient(270deg, #000000 0, #f4e8d6);
     padding: 5% 0;
     text-align: center;
     position: relative;
@@ -168,12 +168,12 @@
 
 
 }
-
+// this is a change - Harry
 .mid-main {
 
     text-align: center;
     padding: 4% 0;
-    background: linear-gradient(90deg, #000000 0, #f4e8d6);
+    background:#e2b479;
 
 
     h1 {
