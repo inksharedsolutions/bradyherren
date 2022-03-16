@@ -1,6 +1,6 @@
 // this is a change -Harry
 .footer-section {
-    background:#8b8b8b;
+    background:#20170f;
     padding: 5% 9%;
     margin: 0 auto;
 
@@ -195,7 +195,7 @@
     }
 
     input[name="submit"] {
-        background: #049cd4;
+        background: #ffaa6b;
         border: none;
         color: #ffff;
         cursor: pointer;
@@ -205,12 +205,12 @@
 
     button {
         margin: 0;
-        background: #049cd4;
+        background: #ffaa6b;
         border-radius: 0;
         border: 0;
 
         &:hover{
-            background-color: #049cd4;
+            background-color: #ffaa6b;
             a{
                 color: white;
             }
