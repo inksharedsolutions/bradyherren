@@ -336,7 +336,7 @@
     span {
 
         // &:nth-child(2) {
-        color: #ffff;
+        color: rgb(0, 0, 0);
         font-family: "augusta-free";
         text-transform: capitalize !important;
         // }
@@ -346,7 +346,7 @@
 .author-name {
 
     .author-span-ft {
-        color: #ffff;
+        color: rgb(0, 0, 0);
     }
 
     .ata-name {
@@ -748,7 +748,7 @@
 .article-section {
     p {
         line-height: 2.2;
-        color: #ffffff;
+        color: #000000;
         margin-bottom: 2em;
         text-align: justify;
         font-size: 1.3em;
