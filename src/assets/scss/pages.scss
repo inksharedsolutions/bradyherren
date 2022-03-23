@@ -10,7 +10,7 @@ $prm-font-size : 12px;
 .web-banner {
 
     content: "";
-    background: url("../../../static/banner/bbb3.jpg") no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../../../static/banner/bb4.jpeg") no-repeat;
     position: relative;
     height: 500px;
     width: 100%;
@@ -24,7 +24,7 @@ $prm-font-size : 12px;
         letter-spacing: 0.67em;
         text-transform: uppercase;
         line-height: 2;
-        color: #000000;
+        color: #414141;
     }
 
     h1 {
@@ -117,7 +117,7 @@ $prm-font-size : 12px;
         font-size: 12px;
         letter-spacing: 4px;
         margin-bottom: 9px;
-        color: #ffffff;
+        color: #9d4041;
         text-transform: uppercase;
     }
 }
@@ -175,7 +175,7 @@ $prm-font-size : 12px;
 #form-wrapper,
 #textAreaContainer {
     label {
-        color: #ffff;
+        color: #ff6666;
         display: block;
         font-size: 13px;
         letter-spacing: 1px;
@@ -191,7 +191,7 @@ $prm-font-size : 12px;
 .contactMessage {
     font-size: 20px !important;
     margin-bottom: 24px !important;
-    color: #ffff;
+    color: #ff6666;
 }
 
 .flexMainContainer {
@@ -210,7 +210,8 @@ $prm-font-size : 12px;
 .abtiaryButton {
     padding: 13px 74px;
     border: none;
-    background: #049cd4;
+    background: #ff6666;
+    border-radius: 25px;
     color: #fff;
     text-transform: uppercase;
     margin-top: 39px;
@@ -331,7 +332,7 @@ $prm-font-size : 12px;
 
     h2 {
 
-        color: #c79740;
+        color: #f85e5e;
         font-size: 2em;
         margin: 1em 0;
 
@@ -339,14 +340,14 @@ $prm-font-size : 12px;
             content: '';
             width: 101px;
             height: 2px;
-            background-color: #53bf58;
+            background-color: #e7ac54;
             display: block;
             margin: 11px 0;
         }
     }
 
     p {
-        color: #ffff;
+        color: #292929;
         margin-bottom: 1em;
 
     }
@@ -433,7 +434,7 @@ $prm-font-size : 12px;
 .info-section-address {
     text-align: center;
     margin: 39px 0;
-    border-top: 2px solid #ff2828;
+    border-top: 2px solid #ff6666;
 
     span {
         display: block;

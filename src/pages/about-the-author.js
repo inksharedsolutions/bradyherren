@@ -14,7 +14,7 @@ const ATB = (props) => {
     return (
         <>
             <Layout>
-                <Helmet title="About the Author | Brady Herren" />
+                <Helmet title="About the Author | Brad M. Herren" />
                 <Nav pathExt={props.path} />
 
                 <Banner

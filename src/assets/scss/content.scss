@@ -103,7 +103,7 @@
     text-align: center;
     position: relative;
     z-index: 2;
-    background:#e2b479;
+    background:#9d4041;
 
     h1 {
 
@@ -133,7 +133,8 @@
 } 
 // this is a change - Harry
 .upper-main-author {
-    background: url("../../../static/banner/AuthorBackground.png") repeat;
+    // background: url("../../../static/banner/AuthorBackground.png") repeat;
+    background: #F6EBDE;
     // background: linear-gradient(270deg, #000000 0, #f4e8d6);
     padding: 5% 0;
     text-align: center;
@@ -170,18 +171,18 @@
 
     text-align: center;
     padding: 4% 0;
-    background:#e2b479;
+    background:#ffe3c4;
 
 
     h1 {
         font-size: 3.5em;
         text-transform: uppercase;
         font-weight: 900;
-        color: #ffffff !important;
+        color: #f16a6a !important;
         
     }
     p{
-        color: #ffffff;
+        color: #5e5d5d;
     }
 
 

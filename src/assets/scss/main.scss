@@ -141,15 +141,24 @@ button {
 
 
 .btn-book-featured {
-    background: none;
+    background-color: #FCF5E8;
     border: 2px solid #ffff;
     border-radius: 40px;
     padding: 2% 16%;
     margin-top: 5%;
 
+    &:hover{
+        background: none;
+        
+        a{
+            color: hsl(0, 0%, 100%) !important;
+        }
+    }
+
     a {
         text-transform: uppercase;
-        color: hsl(0, 0%, 100%) !important;
+        font-weight: 500;
+        color: #9D4041 !important;
     }
 }
 

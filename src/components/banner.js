@@ -14,7 +14,7 @@ const Banner = () => {
                             <div className="banner-text" id='bannercontent'>
 
                                 <h1>
-                                    Brady Herren
+                                    My Favorite Books
                                 </h1>
 
                             </div>

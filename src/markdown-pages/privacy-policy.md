@@ -1,11 +1,11 @@
 ---
   title: "Privacy Policy"
   date : "5-29-2020"
-  author : 'Brady Herren'
+  author : 'Brad M. Herren'
 ---
 
 
-Brady Herren website is committed to safeguarding and preserving the privacy of our visitors.
+Brad M. Herren website is committed to safeguarding and preserving the privacy of our visitors.
 
 This Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site and how we use cookies on this website.
 
@@ -13,7 +13,7 @@ This Policy changes from time to time so please do review this Policy regularly.
 
 ## Information That We collect
 
-In running and maintaining our website Brady Herren website may collect and process the following data about you:
+In running and maintaining our website Brad M. Herren website may collect and process the following data about you:
 
 Information about your use of our site including details of your visits such as pages viewed and the resources that you access. Such information includes traffic data, location data and other communication data.
 
@@ -44,7 +44,7 @@ To inform you of any changes to our website, services or goods and products.
 
 If you have previously purchased goods or services from us we may provide to you details of similar goods or services, or other goods and services, that you may be interested in.
 
-We never give your details to third parties to use your data to enable them to provide you with information regarding Brady Herren and/or goods or services.
+We never give your details to third parties to use your data to enable them to provide you with information regarding Brad M. Herren and/or goods or services.
 
 ## Storing Your Personal Data
 

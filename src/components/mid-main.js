@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo1 from '../../static/logo/amazon (2).png'
+import Logo1 from '../../static/logo/amazon1.png'
 import Logo2 from '../../static/logo/bam (2).png'
 import Logo3 from '../../static/logo/Barnes-and-noble-booksellers-logo (2).png'
 import Logo4 from '../../static/logo/logo4.png'
@@ -11,7 +11,7 @@ const MidMain = () => {
                 <div className="container-gt separator-line">
                     <h1>Featured</h1>
                     <p className="middle-params">
-                        Brady Herren has been featured numerous times on...
+                        Brad M. Herren has been featured numerous times on...
                     </p>
 
                     <div className="grid-template-four-col" id="logos-col">
